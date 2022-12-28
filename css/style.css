@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  text-align: center;
+  background: linear-gradient(262deg, #ff7854,#fd267d);
+
+}
+h1{
+ font-family: 'Courgette', cursive;
+}
+h2{
+ font-family: 'Nerko One', cursive;
+}
+h3{
+ font-family: 'Nerko One', cursive;
+}
+.top{
+  padding: 25px;
+  font-size: 25px;
+}
+.middle{
+  background-color: #FFDDD2;
+  padding: 100px;
+}
+.bottom{
+  padding: 10px;
+}
+.login-home{
+  position:fixed;
+  right: 20px;
+  top: 0;
+  padding: 10px;
+
+}
+.login-home:hover{
+  background:#FFB9B9;
+  border-radius:8px;
+  transition: 0.4s;
+}
+.btn{
+  text-decoration: none;
+  color: #E98EAD;
+
+}
+.btn:hover{
+  color: #fd267d;
+}
+.footer-link{
+  text-decoration: none;
+  color: #FFC6D3;
+  padding: 10px;
+}
+.footer-link:hover{
+  color: #EEEEEE;
+}
